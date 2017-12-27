@@ -1,0 +1,6 @@
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\ClassLibraryLab5\bin\Debug\ClassLibraryLab5.dll
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\ClassLibraryLab5\bin\Debug\ClassLibraryLab5.pdb
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\ClassLibraryLab5\obj\Debug\ClassLibraryLab5.csprojResolveAssemblyReference.cache
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\ClassLibraryLab5\obj\Debug\ClassLibraryLab5.csproj.CoreCompileInputs.cache
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\ClassLibraryLab5\obj\Debug\ClassLibraryLab5.dll
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\ClassLibraryLab5\obj\Debug\ClassLibraryLab5.pdb

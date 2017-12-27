@@ -1,0 +1,17 @@
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\bin\Debug\Lab5_2.exe.config
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\bin\Debug\Lab5_2.exe
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\bin\Debug\Lab5_2.pdb
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\bin\Debug\ClassLibraryLab5.dll
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\bin\Debug\ClassLibraryLab5.pdb
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5_2.csprojResolveAssemblyReference.cache
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\MainWindow.g.cs
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\App.g.cs
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5_2_MarkupCompile.cache
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5_2_MarkupCompile.lref
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\MainWindow.baml
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5_2.g.resources
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5_2.Properties.Resources.resources
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5_2.csproj.GenerateResource.Cache
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5_2.csproj.CoreCompileInputs.cache
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5_2.exe
+C:\Users\Lina\source\repos\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5_2.pdb
