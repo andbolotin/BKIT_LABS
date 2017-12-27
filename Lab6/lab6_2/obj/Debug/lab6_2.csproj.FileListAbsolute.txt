@@ -1,0 +1,6 @@
+C:\Users\Lina\source\repos\BCIT_labs\Lab6\Lab6_1\lab6_2\bin\Debug\lab6_2.exe
+C:\Users\Lina\source\repos\BCIT_labs\Lab6\Lab6_1\lab6_2\bin\Debug\lab6_2.pdb
+C:\Users\Lina\source\repos\BCIT_labs\Lab6\Lab6_1\lab6_2\obj\Debug\lab6_2.csprojResolveAssemblyReference.cache
+C:\Users\Lina\source\repos\BCIT_labs\Lab6\Lab6_1\lab6_2\obj\Debug\lab6_2.csproj.CoreCompileInputs.cache
+C:\Users\Lina\source\repos\BCIT_labs\Lab6\Lab6_1\lab6_2\obj\Debug\lab6_2.exe
+C:\Users\Lina\source\repos\BCIT_labs\Lab6\Lab6_1\lab6_2\obj\Debug\lab6_2.pdb
