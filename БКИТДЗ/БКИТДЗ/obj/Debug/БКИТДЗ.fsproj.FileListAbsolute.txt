@@ -1,0 +1,10 @@
+C:\Users\serge\source\repos\БКИТДЗ\БКИТДЗ\bin\Debug\БКИТДЗ.exe.config
+C:\Users\serge\source\repos\БКИТДЗ\БКИТДЗ\bin\Debug\БКИТДЗ.XML
+C:\Users\serge\source\repos\БКИТДЗ\БКИТДЗ\bin\Debug\БКИТДЗ.exe
+C:\Users\serge\source\repos\БКИТДЗ\БКИТДЗ\bin\Debug\БКИТДЗ.pdb
+C:\Users\serge\source\repos\БКИТДЗ\БКИТДЗ\bin\Debug\FSharp.Core.dll
+C:\Users\serge\source\repos\БКИТДЗ\БКИТДЗ\bin\Debug\System.ValueTuple.dll
+C:\Users\serge\source\repos\БКИТДЗ\БКИТДЗ\bin\Debug\FSharp.Core.xml
+C:\Users\serge\source\repos\БКИТДЗ\БКИТДЗ\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\serge\source\repos\БКИТДЗ\БКИТДЗ\obj\Debug\БКИТДЗ.exe
+C:\Users\serge\source\repos\БКИТДЗ\БКИТДЗ\obj\Debug\БКИТДЗ.pdb
